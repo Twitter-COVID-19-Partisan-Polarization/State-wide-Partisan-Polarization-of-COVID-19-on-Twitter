@@ -1,1 +1,1 @@
-# Twitter-COVID-19-Partisan-Polarization.github.io
+# State-wide Partisan Polarization of COVID-19 on Twitter
